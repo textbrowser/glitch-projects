@@ -37,6 +37,6 @@ Future Possibilities
 <li>Display colors.</li>
 <li>Ethernet communications.</li>
 <li>Limit violations.</li>
-<li>Notifications</li>
+<li>Notifications.</li>
 <li>Piezo Buzzer.</li>
 </ul>
