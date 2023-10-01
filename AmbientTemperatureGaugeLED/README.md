@@ -29,7 +29,7 @@ Tray Preparation
 <li>Attach the OLED display and sensor to I2C ports.</li>
 <li>Carefully attach the product to the tray.</li>
 <li>Connect the USB cable to a power source.</li>
-<li>Please refer to the include images for guidance.</li>
+<li>Please refer to the included images for guidance.</li>
 </ol>
 
 Future Possibilities
