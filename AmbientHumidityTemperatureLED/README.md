@@ -38,7 +38,7 @@ Future Possibilities
 <li>Ethernet communications.</li>
 <li>Limit violations.</li>
 <li>Notifications.</li>
-<li>Piezo Buzzer.</li>
+<li>Piezo buzzer.</li>
 </ul>
 
 ![](https://github.com/textbrowser/glitch-projects/blob/main/AmbientHumidityTemperatureLED/Image-1.jpg)
