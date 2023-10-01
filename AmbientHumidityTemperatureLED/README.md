@@ -41,5 +41,5 @@ Future Possibilities
 <li>Piezo Buzzer.</li>
 </ul>
 
-!(https://github.com/textbrowser/glitch-projects/blob/main/AmbientHumidityTemperatureLED/Image-1.jpg)
-!(https://github.com/textbrowser/glitch-projects/blob/main/AmbientHumidityTemperatureLED/Image-2.jpg)
+![](https://github.com/textbrowser/glitch-projects/blob/main/AmbientHumidityTemperatureLED/Image-1.jpg)
+![](https://github.com/textbrowser/glitch-projects/blob/main/AmbientHumidityTemperatureLED/Image-2.jpg)
