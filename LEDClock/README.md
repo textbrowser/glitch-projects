@@ -28,3 +28,9 @@ Tray Preparation
 <li>Connect the two AS1115 units to ports 0 and 1 of the multiplexer via I2C cables.</li>
 <li>Please refer to the included images for guidance.</li>
 </ol>
+
+Future Possibilities
+<ul>
+<li>Arduino Due.</li>
+<li>Real-time clock device.</li>
+</ul>
