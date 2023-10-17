@@ -1,6 +1,6 @@
 Required Components
 <ol>
-<li>Arduino Uno R3</li>
+<li>Arduino Uno R4</li>
 <li>I2C Shield</li>
 <li>Multiplexer</li>
 <li>Three I2C Cables</li>
@@ -25,12 +25,12 @@ Tray Preparation
 <li>Connect the USB cable to a power source.</li>
 <li>Connect the Uno to the USB cable.</li>
 <li>Connect the multiplexer to the I2C shield via an I2C cable.</li>
-<li>Connect the two AS1115 units to ports 0 and 1 of the multiplexer via I2C cables.</li>
+<li>Connect the two AS1115 units to ports 0 and 1 of the multiplexer
+  via I2C cables.</li>
 <li>Please refer to the included images for guidance.</li>
 </ol>
 
 Future Possibilities
 <ul>
 <li>Arduino Due.</li>
-<li>Real-time clock device.</li>
 </ul>
