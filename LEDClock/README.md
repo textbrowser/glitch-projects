@@ -1,6 +1,7 @@
 Required Components
 <ol>
 <li>Arduino Uno R4</li>
+<li>Ethernet Shield R2</li>
 <li>I2C Shield</li>
 <li>Multiplexer</li>
 <li>Three I2C Cables</li>
