@@ -1,12 +1,15 @@
 Required Components
 <ol>
 <li>Arduino Uno R4</li>
+<li>Ethernet Cable</li>
 <li>Ethernet Shield R2</li>
 <li>I2C Shield</li>
 <li>Multiplexer</li>
+<li>Raspberry Pi Model 2B.</li>
 <li>Three I2C Cables</li>
 <li>Tray</li>
 <li>Two AS1115 Three-Digit LED Units</li>
+<li>USB Wireless Dongle</li>
 <li>Uno R4 USB Cable</li>
 </ol>
 
@@ -21,6 +24,19 @@ Arduino IDE
   (https://support.arduino.cc/hc/en-us/articles/\
    9005041052444-Fix-udev-rules-on-Linux#renesas).</li>
 <li>Load the software onto the board.</li>
+</ol>
+
+Networking
+<ol>
+<li>NTP is required for correct time. If you have
+  access to a switch, the networking portion is complete!</li>
+<li>A Raspberry Pi 2 Model B will provide both networking
+  and power.</li>
+<li>Connect the UNO to one of the Pi's USB ports via the
+  USB cable.</li>
+<li>Connect the USB wireless dongle to one of the Pi's
+  USB ports.</li>
+<li>Connect the two networking ports via a network cable.</li>
 </ol>
 
 Tray Preparation
