@@ -41,7 +41,9 @@ Networking
 Tray Preparation
 <ol>
 <li>Please wear safety glasses and gloves.</li>
-<li>Attach the I2C shield to the Uno.</li>
+<li>Attach the Ethernet Shield to the Uno.</li>
+<li>Attach the I2C shield to the Ethernet Shield.</li>
+<li>Connect the Ethernet port to a network device.</li>
 <li>Connect the USB cable to a power source.</li>
 <li>Connect the Uno to the USB cable.</li>
 <li>Connect the multiplexer to the I2C shield via an I2C cable.</li>
