@@ -19,6 +19,7 @@ Arduino IDE
 Tray Preparation
 <ol>
 <li>Please wear safety glasses and gloves.</li>
+<li>Connect the Ethernet Shiled and the Mega 2560.</li>
 <li>Connect the USB cable to a power source.</li>
 <li>Please refer to the included images for guidance.</li>
 </ol>
