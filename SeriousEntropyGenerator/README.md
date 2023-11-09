@@ -25,5 +25,4 @@ Tray Preparation
 <li>Connect the Ethernet Shield and the Mega 2560.</li>
 <li>Connect the Ethernet cable to the Mega 2560 and a switch.</li>
 <li>Connect the USB cable to a power source.</li>
-<li>Please refer to the included image for guidance.</li>
 </ol>
