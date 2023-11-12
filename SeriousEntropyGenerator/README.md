@@ -23,6 +23,7 @@ Tray Preparation
 <ol>
 <li>Please wear safety glasses and gloves.</li>
 <li>Connect the Ethernet Shield and the Mega 2560.</li>
-<li>Connect the Ethernet cable to the Mega 2560 and a switch.</li>
+<li>Connect the Ethernet cable to the Mega 2560.</li>
+<li>Connect the Mega to a network switch.</li>
 <li>Connect the USB cable to a power source.</li>
 </ol>
